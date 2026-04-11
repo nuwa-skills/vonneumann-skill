@@ -1,17 +1,16 @@
-<h1 align="center">vonneumann.skill</h1>
+<div align="center">
 
-<p align="center">
-  <em>"如果人们不相信数学是简单的，那只是因为他们没有意识到生活有多复杂。"</em>
-</p>
+# vonneumann.skill
 
-<p align="center">
-  <a href="https://github.com/Panmax/vonneumann-skill/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
-  <a href="https://github.com/Panmax/vonneumann-skill"><img src="https://img.shields.io/badge/skill-vonneumann--perspective-brightgreen.svg" alt="Skill"></a>
-  <a href="https://github.com/Panmax/vonneumann-skill/stargazers"><img src="https://img.shields.io/github/stars/Panmax/vonneumann-skill?style=social" alt="Stars"></a>
-</p>
+> *"如果人们不相信数学是简单的，那只是因为他们没有意识到生活有多复杂。"*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 
 **将冯诺依曼的博弈论思维、计算架构直觉与跨学科超速思考能力蒸馏进 Claude，让 AI 在数学、物理、计算机、经济学之间无缝切换，以惊人速度给出精确答案。**
 
+</div>
 ---
 
 ## 效果示例
@@ -97,10 +96,12 @@ vonneumann-skill/
 
 ---
 
-## 许可证
-
-[MIT](LICENSE) -- Copyright (c) 2026 Panmax
-
 ---
 
-<p align="center"><sub>vonneumann.skill -- 让 AI 像跨学科天才一样思考</sub></p>
+<div align="center">
+
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
+
+</div>
